@@ -1,0 +1,36 @@
+:root {
+  --ui-resourcesbackgrounddark-2: rgba(43, 43, 43, 1);
+  --fonts-body-text-font-family: "Poppins", Helvetica;
+  --fonts-body-text-font-weight: 400;
+  --fonts-body-text-font-size: 16px;
+  --fonts-body-text-letter-spacing: 0px;
+  --fonts-body-text-line-height: 24px;
+  --fonts-body-text-font-style: normal;
+  --fonts-heading-5-font-family: "Poppins", Helvetica;
+  --fonts-heading-5-font-weight: 600;
+  --fonts-heading-5-font-size: 21.329999923706055px;
+  --fonts-heading-5-letter-spacing: 0px;
+  --fonts-heading-5-line-height: 24px;
+  --fonts-heading-5-font-style: normal;
+  --fonts-heading-3-font-family: "Poppins", Helvetica;
+  --fonts-heading-3-font-weight: 600;
+  --fonts-heading-3-font-size: 37.900001525878906px;
+  --fonts-heading-3-letter-spacing: 0px;
+  --fonts-heading-3-line-height: 36px;
+  --fonts-heading-3-font-style: normal;
+  --tokens-surface-surface-primary: var(--primitives-color-gray-white);
+  --tokens-text-text-primary: var(--primitives-color-gray-gray-90);
+  --tokens-text-text-secondary: var(--primitives-color-gray-gray-80);
+  --tokens-surface-surface-invert: var(--primitives-color-gray-gray-90);
+  --tokens-spacing-spacing-2xl: var(--primitives-spacing-6);
+  --tokens-text-text-invert: var(--primitives-color-gray-gray-10);
+  --tokens-spacing-spacing-3xl: var(--primitives-spacing-13);
+  --primitives-color-brand-green: rgba(40, 94, 103, 1);
+  --primitives-color-brand-light-peach: rgba(252, 226, 215, 1);
+  --primitives-color-gray-white: rgba(255, 255, 255, 1);
+  --primitives-color-gray-gray-90: rgba(42, 42, 42, 1);
+  --primitives-color-gray-gray-80: rgba(43, 43, 43, 1);
+  --primitives-spacing-6: 48px;
+  --primitives-color-gray-gray-10: rgba(244, 244, 244, 1);
+  --primitives-spacing-13: 104px;
+}
